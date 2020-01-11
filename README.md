@@ -20,4 +20,4 @@ The 4 major steps
 - Pandas
 - Scikit-learn
 
-This project is done as learning step usng various open source projects on this dataset.
+Note:This project is done as learning step using various open source projects on this dataset.
